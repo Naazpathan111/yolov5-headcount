@@ -19,17 +19,6 @@
 | 👁️ In-Frame Count | Shows how many people are visible right now |
 | 💾 Works on CPU | No GPU needed — runs on Intel/AMD CPU |
 
----
-
-## 🎬 Demo
-
-> *(Add your output video or GIF here — see instructions below)*
-
-<!-- Replace this comment with your GIF:
-![Demo](assets/demo.gif)
--->
-
----
 
 ## 🗂️ Project Structure
 
@@ -133,26 +122,12 @@ The key insight: a Python `set` automatically ignores duplicates, so the same pe
 - [OpenCV](https://opencv.org/) — video processing & overlay
 - [SciPy](https://scipy.org/) — centroid distance matching
 
----
 
-## 📸 How to Add a Demo GIF to GitHub
-
-1. Run detection on your video
-2. Find output in `runs/detect/exp/`
-3. Convert to GIF using [ezgif.com](https://ezgif.com/video-to-gif)
-4. Create an `assets/` folder in your repo
-5. Upload `demo.gif` there
-6. Uncomment the `![Demo]` line in this README
-
----
 
 ## 👤 Author
 
 **Naazpathan111**  
 [GitHub](https://github.com/Naazpathan111)
 
----
 
-## 📄 License
 
-MIT License — free to use and modify.
